@@ -1,0 +1,3 @@
+C:/Users/Gavin J/CLionProjects/CSC450Portfolio/cmake-build-debug/CMakeFiles/CSC450Portfolio.dir
+C:/Users/Gavin J/CLionProjects/CSC450Portfolio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gavin J/CLionProjects/CSC450Portfolio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
